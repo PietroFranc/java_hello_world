@@ -1,4 +1,4 @@
-// Your First Program
+// Primo programma di test in Java
 
 class HelloWorld {
     public static void main(String[] args) {
